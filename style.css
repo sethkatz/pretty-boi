@@ -1,0 +1,13 @@
+intro{
+text-align: center;
+}
+
+body { 
+  background-color: #FF69B4;
+     cursor: url("https://i.imgur.com/2vvkfaO.png"), auto;   
+}
+
+.enter {
+  height: 150px;
+ cursor: url("https://i.imgur.com/PYD5FSR.png"), auto;
+ }
